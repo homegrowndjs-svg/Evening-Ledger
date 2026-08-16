@@ -1,4 +1,4 @@
-const CACHE = 'evening-ledger-v1';
+const CACHE = 'good-stuff-v2';
 const ASSETS = [
   './',
   './index.html',
