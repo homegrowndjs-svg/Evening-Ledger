@@ -1,7 +1,7 @@
 {
-  "name": "Evening Ledger",
-  "short_name": "Ledger",
-  "description": "What did tonight fund? Body, bonds, bets, or rest. No streaks, no targets — just light you added.",
+  "name": "The Good Stuff",
+  "short_name": "Good Stuff",
+  "description": "What good stuff did you add today? Body, bonds, bets, rest. No streaks, no targets.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
